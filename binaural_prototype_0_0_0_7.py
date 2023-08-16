@@ -283,3 +283,7 @@ if __name__ == '__main__':
     ui = BinauralBeatExplorerUI(beat_generator, user_profile, feedback_mechanism, predictive_engine, session_management)
     ui.show()  # Show the main window
     sys.exit(app.exec_())
+
+
+
+X💋
